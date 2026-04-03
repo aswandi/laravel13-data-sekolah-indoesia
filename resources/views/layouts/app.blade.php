@@ -1061,7 +1061,7 @@
     {{-- Footer --}}
     <footer class="footer">
         <p>&copy; {{ date('Y') }} <strong>Data Sekolah Indonesia</strong> — Sumber data: <a href="https://sekolah.data.kemendikdasmen.go.id" target="_blank">Kemendikdasmen RI</a></p>
-        <p style="margin-top: 0.5rem; font-size: 0.78rem;">Data terakhir diperbarui dari database resmi Kementerian Pendidikan Dasar dan Menengah</p>
+        <p style="margin-top: 0.5rem; font-size: 0.78rem;">Data di kumpulkan pada tanggal 12 februari 2026 dan dibuat oleh <a href="https://www.aswandi.or.id" target="_blank">www.aswandi.or.id</a></p>
     </footer>
 
     {{-- Scripts --}}
